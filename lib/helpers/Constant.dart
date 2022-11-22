@@ -5,6 +5,7 @@ const String andoidPackageName = 'com.wrteam.prime_web';
 
 //change this url to set your URL in app
 const String webinitialUrl = 'https://reflect.cf';
+const String firstTabUrl = 'https://www.google.com';
 
 //keep local content of pages of setting screen
 const String aboutPageURL = 'https://reflect.cf';
